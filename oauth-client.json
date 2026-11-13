@@ -1,0 +1,16 @@
+{
+  "client_id": "https://kbeauty-ai-ops.github.io/workspace-oauth-metadata/oauth-client.json",
+  "client_name": "Private Workspace",
+  "client_uri": "https://kbeauty-ai-ops.github.io/workspace-oauth-metadata/",
+  "redirect_uris": [
+    "http://127.0.0.1:19587/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
